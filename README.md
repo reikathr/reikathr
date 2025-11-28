@@ -1,8 +1,6 @@
-## Hi, I'm Reika! 🐿🐼
+## hi, i'm reika :]
 
-🎓 I'm a Computer Science student at Universitas Indonesia.<br>
-💻 Web development? Data and ML? UI/UX Design? Still exploring, but I love learning more about those fields!<br>
-🐧 I love zoology big time!
+cs student @ universitas indonesia. i like machine learning and web development. interested in wildlife and biomedicine.
 
 <!--
 **reikathr/reikathr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
